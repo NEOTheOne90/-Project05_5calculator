@@ -1,4 +1,4 @@
-# Project05_5calculator
+# AD_ex05_5calculator
 
 # 업그레이드 계산기 예제 🧮
 
